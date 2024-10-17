@@ -1,4 +1,4 @@
-## Requirements
+## Dcube project
 
 | Name | Version |
 |------|---------|
